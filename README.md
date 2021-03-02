@@ -1,24 +1,15 @@
-# README
+# Getting Started with Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This guide covers getting up and running with Ruby on Rails.
 
-Things you may want to cover:
+After reading this guide, you will know:
 
-* Ruby version
+* How to install Rails, create a new Rails application, and connect your application to a database.
 
-* System dependencies
+* The general layout of a Rails application.
 
-* Configuration
+* The basic principles of MVC (Model, View, Controller) and RESTful design.
 
-* Database creation
+* How to quickly generate the starting pieces of a Rails application.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://guides.rubyonrails.org/getting_started.html
